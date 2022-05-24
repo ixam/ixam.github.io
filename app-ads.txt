@@ -37,3 +37,4 @@ openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 facebook.com, 482666552199881, RESELLER, c3e20eee3f780d68
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 smartadserver.com, 4194, RESELLER
+media.net, 8CUB50RGY, DIRECT
